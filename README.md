@@ -20,8 +20,17 @@ If you have a good foundation - start with this book:
 However, in my case I forgot some aspects from it.
 So, let's recover some things:
 
+**PreCalculus**
 - Khan
 - purple math
+
+**Calculus**:
+- Khan
+- [MIT: Calculus for beginners](https://math.mit.edu/~djk/calculus_beginners/index.html)
+- [MIT: Calculus 18-001](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/)
+- [3Blue1Brown: Calculus](https://www.3blue1brown.com/topics/calculus)
+- [Lamar university: Calculus](https://tutorial.math.lamar.edu/classes/calci/calci.aspx)
+
 - [3Blue1Brown: Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 
 Topics to read and learn: linear math.
