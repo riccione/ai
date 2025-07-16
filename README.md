@@ -34,3 +34,11 @@ So, let's recover some things:
 - [3Blue1Brown: Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
 
 Topics to read and learn: linear math.
+
+## Karpathy
+
+Good motivation and simplicity.
+
+Inside dir karpathy - jupiter notebooks for the videos with my comments.
+
+[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
