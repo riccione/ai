@@ -24,14 +24,16 @@ So, let's recover some things:
 - Khan
 - purple math
 
-**Calculus**:
+**MATH: Calculus and more**:
 - Khan
 - [MIT: Calculus for beginners](https://math.mit.edu/~djk/calculus_beginners/index.html)
 - [MIT: Calculus 18-001](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/)
 - [3Blue1Brown: Calculus](https://www.3blue1brown.com/topics/calculus)
 - [Lamar university: Calculus](https://tutorial.math.lamar.edu/classes/calci/calci.aspx)
-
+- [MIT OCW - 18.06 Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm)
 - [3Blue1Brown: Linear Algebra](https://www.3blue1brown.com/topics/linear-algebra)
+- [Khan Academy - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [MIT OCW - 18.05 Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
 
 Topics to read and learn: linear math.
 
@@ -42,3 +44,22 @@ Good motivation and simplicity.
 Inside dir karpathy - jupiter notebooks for the videos with my comments.
 
 [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+## Stanford CS336 2025: Language Modeling from Scratch
+
+### Prerequisites
+
+- proficiency in python
+- experience with deep learning and systems optimization
+- Calculus, Linear Algebra (MATH 51, CME 100)
+- Basic Probability and Statistics (CS109)
+- Machine Learning (CS221, CS229, CS230, CS124, CS224N)
+
+[youtube: playlist (17 videos)](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+
+[CS336 website with assignments, slides etc](https://stanford-cs336.github.io/spring2025/)
+
+## Reference
+[reddit: r/learnmachinelearning ](https://www.reddit.com/r/learnmachinelearning/)
+
+[reddit: How to learn Machine Learning [Guide]](https://www.reddit.com/r/learnmachinelearning/comments/nhxuhl/how_to_learn_machine_learning_guide/)
